@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: rosybrown; */
+}
+header{
+    height: 50px;
+    background-color: black;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.hed_con{
+   background-color: rgb(203, 203, 224);
+   height: 50px;
+}
+.logo{
+     /* background-color: blueviolet; */
+     width: 40%;
+     height: 50px;
+    float: left;
+}
+.logo_img{
+    width: 55px;
+    height: 50px;
+    text-align: right;
+    margin-left: 183px;
+    border-radius: 30px;
+}
+.heading_text{
+        /* background-color: brown; */
+        width: 60%;
+        height: 50px;
+        float: right;
+        text-align:center;
+}
+.img_sec{
+    background-color: #6c686f;
+    width: 100%;
+}
+.banner{
+    /* width: 1140px; */
+    background-image: url(../img/1.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner_text{
+    padding: 100px;
+    color: brown;
+    font-size: xx-large;
+}
+.text_color{
+    color: white;
+}
+.item_section{
+    /* background-color:red ; */
+}
+.item{
+    /* text-align: center; */
+}
+.product_text{
+    text-align: center;
+    padding: 10px;
+}
+.item_2{
+    margin-top: 5px;
+}
+.product1{
+    width: 31%;
+    float: left;
+    /* margin: 3px; */
+    border: 1px solid red;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 3px;
+ }
+.services_head{
+    text-align: center;
+    /* background: wheat; */
+
+}
+.services{
+    
+}
+ .home_delivary{
+     width: 250px;
+     height: 250px;
+     margin: 0px auto;
+     display: block;
+
+ }
+.home_delivery_con{
+    width: 50%;
+    float: left;
+}
+.footer{
+    background-color: thistle;
+    height: 150px;
+    margin-top: 600px;
+}
+
+.footer_con{
+    width: 40%;
+    float: left;
+}
+.footer_con2{
+    width: 40%;
+    float: right;
+}
